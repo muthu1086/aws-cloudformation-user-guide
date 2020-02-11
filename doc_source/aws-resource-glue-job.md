@@ -20,7 +20,7 @@ To declare this entity in your AWS CloudFormation template, use the following sy
       "[ExecutionProperty](#cfn-glue-job-executionproperty)" : [ExecutionProperty](aws-properties-glue-job-executionproperty.md),
       "[GlueVersion](#cfn-glue-job-glueversion)" : String,
       "[LogUri](#cfn-glue-job-loguri)" : String,
-      "[MaxCapacity](#cfn-glue-job-maxcapacity)" : Double,
+      "[MaxCapacity](#cfn-glue-job-maxcapacity)" : String,
       "[MaxRetries](#cfn-glue-job-maxretries)" : Double,
       "[Name](#cfn-glue-job-name)" : String,
       "[NotificationProperty](#cfn-glue-job-notificationproperty)" : [NotificationProperty](aws-properties-glue-job-notificationproperty.md),
